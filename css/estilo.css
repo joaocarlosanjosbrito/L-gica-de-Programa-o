@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.caixa {
+    background-color: green;
+    color: rgb(219, 19, 19);
+    height: 250px;
+    width: 250px;
+    line-height: 250px;
+    text-align: center;
+    text-transform: uppercase;
+
+  
+}
